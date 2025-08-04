@@ -29,10 +29,11 @@ To build a robust and reusable preprocessing pipeline that:
 
 ## 🚀 How to Use
 1. Clone the Repository
-git clone https://github.com/krishnakantt/Data-Preprocessing-.git  
-cd data-cleaning-ml  
+git clone https://github.com/krishnakantt/Data-Preprocessing-.git
+
 2. Install Requirements  
-pip install -r requirements.txt  
+pip install -r Requirements.txt
+
 3. Use Python Scripts  
 python scripts/Data Preprocessing.py
 
